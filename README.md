@@ -1,5 +1,9 @@
 # Deep Learning and Machine Learning Reading Group
 
+<p>
+  <img src="https://github.com/lethienhoa/deep-learning-and-machine-learning-reading-group/blob/master/download.jpeg" width=240px />
+</p>
+
 | Date | Presenter | Paper |
 |-------------|-------------|-----------------|
 |  | Hoa | Martin Arjovsky, Soumith Chintala, Leon Bottou. **Wasserstein Generative Adversarial Networks**. ICML 2017 |
