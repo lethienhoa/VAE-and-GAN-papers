@@ -1,1 +1,1 @@
-# deep-learning-and-machine-learning-reading-group
+# Deep Learning and Machine Learning Reading Group
