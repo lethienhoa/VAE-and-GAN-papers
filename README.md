@@ -15,3 +15,4 @@
 |  |  | Paul K. Rubenstein, Bernhard Scholkopf, Ilya Tolstikhin. **On the Latent Space of Wasserstein Auto-Encoders**. Arxiv 2018 |
 |  |  | Hareesh Bahuleyan, Lili Mou, Kartik Vamaraju, Hao Zhou, Olga Vechtomova. **Probabilistic Natural Language Generation with Wasserstein Autoencoders**. Arxiv 2018 |
 |  |  | Yuntian Deng, Yoon Kim, Justin Chiu, Demi Guo, Alexander M. Rush. **Latent Alignment and Variational Attention**. Preprint 2018 |
+|  |  | Alex Graves, Jacob Menick, Aaron van den Oord. **Associative Compression Networks for Representation Learning**. Arxiv 2018 |
