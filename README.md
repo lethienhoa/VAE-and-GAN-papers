@@ -1,9 +1,5 @@
 # VAE and GAN papers
 
-<p>
-  <img src="https://github.com/lethienhoa/deep-learning-and-machine-learning-reading-group/blob/master/download.jpeg" width=240px />
-</p>
-
 | Date | Presenter | Paper |
 |-------------|-------------|-----------------|
 |  | Hoa | `Wasserstein Generative Adversarial Networks:` |
