@@ -19,3 +19,5 @@
 |  |  | `Variational Auto-Encoders:` |
 |  |  | Yuntian Deng, Yoon Kim, Justin Chiu, Demi Guo, Alexander M. Rush. **Latent Alignment and Variational Attention**. Preprint 2018 |
 |  |  | Alex Graves, Jacob Menick, Aaron van den Oord. **Associative Compression Networks for Representation Learning**. Arxiv 2018 |
+|  |  | Jake Zhao, Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun. **Adversarially Regularized Autoencoders**. ICML 2018 |
+|  |  | Yoon Kim, Sam Wiseman, Andrew C. Miller, David Sontag, Alexander M. Rush. **Semi-Amortized Variational Autoencoders**. ICML 2018 |
