@@ -7,6 +7,7 @@
 |  |  | Yuhuai Wu, Yuri Burda, Ruslan Salakhutdinov, Roger Grosse. **On the Quantitative Analysis of Decoder-Based Generative Models**. ICLR 2017 |
 |  |  | Martin Arjovsky, Léon Bottou. **Towards Principled Methods for Training Generative Adversarial Networks**. Arxiv 2017 |
 |  |  | Martin Arjovsky, Soumith Chintala, Leon Bottou. **Wasserstein Generative Adversarial Networks**. ICML 2017 |
+|  |  | Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville. **Improved Training of Wasserstein GANs**. NIPS 2017 |
 |  |  | Olivier Bousquet, Sylvain Gelly, Ilya Tolstikhin, Carl-Johann Simon-Gabriel, Bernhard Schoelkopf. **From optimal transport to generative modeling: the VEGAN cookbook**. Arxiv 2017 |
 |  |  | `Wasserstein Auto-Encoders:` |
 |  |  | Ilya Tolstikhin, Olivier Bousquet, Sylvain Gelly, Bernhard Schoelkopf. **Wasserstein Auto-Encoders**. ICLR 2018 |
