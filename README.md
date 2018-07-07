@@ -18,6 +18,7 @@
 |  |  | Hareesh Bahuleyan, Lili Mou, Kartik Vamaraju, Hao Zhou, Olga Vechtomova. **Probabilistic Natural Language Generation with Wasserstein Autoencoders**. Arxiv 2018 |
 |  |  | `Variational Auto-Encoders:` |
 |  |  | Shengjia Zhao, Jiaming Song, Stefano Ermon. **InfoVAE: Balancing Learning and Inference in Variational Autoencoders**. Arxiv 2017 |
+|  |  | Alex Alemi, Ben Poole, Ian Fischer, Joshua V. Dillon, Rif A. Saurous, Kevin Murphy. **Fixing a Broken ELBO**. ICML 2018 |
 |  |  | Jake Zhao, Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun. **Adversarially Regularized Autoencoders**. ICML 2018 |
 |  |  | Yoon Kim, Sam Wiseman, Andrew C. Miller, David Sontag, Alexander M. Rush. **Semi-Amortized Variational Autoencoders**. ICML 2018 |
 |  |  | Yuntian Deng, Yoon Kim, Justin Chiu, Demi Guo, Alexander M. Rush. **Latent Alignment and Variational Attention**. Preprint 2018 |
