@@ -17,6 +17,7 @@
 |  |  | Nicolas Courty, Rémi Flamary, Mélanie Ducoffe. **Learning Wasserstein Embeddings**. ICLR 2018 |
 |  |  | Hareesh Bahuleyan, Lili Mou, Kartik Vamaraju, Hao Zhou, Olga Vechtomova. **Probabilistic Natural Language Generation with Wasserstein Autoencoders**. Arxiv 2018 |
 |  |  | `Variational Auto-Encoders:` |
+|  |  | Matthew D. Hoffman and Matthew J. Johnson. **ELBO surgery: yet another way to carve up the variational evidence lower bound**. NIPS 2016 Workshop |
 |  |  | Shengjia Zhao, Jiaming Song, Stefano Ermon. **InfoVAE: Balancing Learning and Inference in Variational Autoencoders**. Arxiv 2017 |
 |  |  | Alex Alemi, Ben Poole, Ian Fischer, Joshua V. Dillon, Rif A. Saurous, Kevin Murphy. **Fixing a Broken ELBO**. ICML 2018 |
 |  |  | Jake Zhao, Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun. **Adversarially Regularized Autoencoders**. ICML 2018 |
