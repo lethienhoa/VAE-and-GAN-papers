@@ -23,4 +23,7 @@
 |  |  | Yoon Kim, Sam Wiseman, Andrew C. Miller, David Sontag, Alexander M. Rush. **Semi-Amortized Variational Autoencoders**. ICML 2018 |
 |  |  | Yuntian Deng, Yoon Kim, Justin Chiu, Demi Guo, Alexander M. Rush. **Latent Alignment and Variational Attention**. Preprint 2018 |
 |  |  | Alex Graves, Jacob Menick, Aaron van den Oord. **Associative Compression Networks for Representation Learning**. Arxiv 2018 |
-
+|  |  | `Maximum Mean Discrepancy:` |
+|  |  | Arthur Gretton, Karsten M. Borgwardt, Malte J. Rasch, Bernhard Schölkopf, Alexander Smola. **A Kernel Two-Sample Test**. NIPS 2007 |
+|  |  | Yujia Li, Kevin Swersky, Richard Zemel. **Generative Moment Matching Networks**. ICML 2015 |
+|  |  | Gintare Karolina Dziugaite, Daniel M. Roy, Zoubin Ghahramani. **Training generative neural networks via Maximum Mean Discrepancy optimization**. Arxiv 2015 |
